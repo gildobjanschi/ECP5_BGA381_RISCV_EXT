@@ -9,4 +9,6 @@ In the Manage Footprint Libraries click the Project Specific Libraries tab and a
 ## Project Status
 The board has been manufactured and it is fully verified.
 
-![Board 3D view](https://github.com/gildobjanschi/ECP5_BGA381_RISCV_EXT/blob/main/ECP5_ext.jpg)
+[Schematic](https://github.com/gildobjanschi/ECP5_BGA381_RISCV_EXT/blob/main/ECP5_ext.pdf)
+
+![Board rendering](https://github.com/gildobjanschi/ECP5_BGA381_RISCV_EXT/blob/main/ECP5_ext.jpg)
