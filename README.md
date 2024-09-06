@@ -1,5 +1,5 @@
 # Extension board for ECP5_BGA381_RISCV
-This is an extension board for the [ECP5_BGA381_RISCV](https://github.com/gildobjanschi/ECP5_BGA381_RISCV) board. To me it was very useful in monitoring processor is operations in terms of reading/writting ROM, RAM, IO, interrupts, what instruction is generating a trap and so on.
+This is an extension board for the [ECP5_BGA381_RISCV](https://github.com/gildobjanschi/ECP5_BGA381_RISCV) board. To me it was very useful in monitoring processor is operations in terms of reading/writting registers, ROM, RAM, IO, knowing that interrupts occur, visualizing the instruction execution pipeline, cache hits and what instruction is generating a trap.
 
 ## How To setup KiCAD
 Checkout the KiCAD project and open it. In the Configure Paths dialog add: Name: ECP5_BGA381_RISCV_EXT and Path: "The full path to the GitHub directory"/GitHub/ECP5_BGA381_RISCV_EXT
